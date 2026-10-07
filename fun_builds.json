@@ -1,0 +1,63 @@
+[
+  {
+    "id": "build_beginning_base",
+    "title": "Beginning Base",
+    "category": "Base Building",
+    "description": "An essential early-game starter habitat featuring living compartments, glass windows, wind power, storage crates, a T2 craft station, and monitoring screens.",
+    "imageResName": "pb_beginning_base",
+    "items": [
+      { "itemId": "pod", "count": 4 },
+      { "itemId": "door", "count": 1 },
+      { "itemId": "window", "count": 2 },
+      { "itemId": "EnergyGenerator1", "count": 5 },
+      { "itemId": "CraftStation1", "count": 1 },
+      { "itemId": "Container1", "count": 5 },
+      { "itemId": "Desktop1", "count": 1 },
+      { "itemId": "ScreenUnlockables", "count": 1 },
+      { "itemId": "ScreenEnergy", "count": 1 }
+    ]
+  },
+  {
+    "id": "build_simple_sauna",
+    "title": "Simple Sauna",
+    "category": "Decoration",
+    "description": "A cozy, customizable timber & glass sauna featuring smart couches, a T1 heater for warmth, a sink, and a glass ceiling.",
+    "imageResName": "simple_sauna",
+    "items": [
+      { "itemId": "pod", "count": 1 },
+      { "itemId": "door", "count": 1 },
+      { "itemId": "window", "count": 3 },
+      { "itemId": "FloorGlass", "count": 1 },
+      { "itemId": "Heater1", "count": 1 },
+      { "itemId": "Faucet1", "count": 1 },
+      { "itemId": "SofaColored", "count": 1 },
+      { "itemId": "SofaAngleColored", "count": 1 }
+    ]
+  },
+  {
+    "id": "build_waterfront_retreat",
+    "title": "Waterfront Retreat",
+    "category": "Base Building",
+    "description": "A luxurious lakeside boardwalk retreat featuring fish farms, fountains, a cozy fireplace, customizable sofas, hologram projectors, and lush flora arrangements.",
+    "imageResName": "waterfront_retreat",
+    "items": [
+      { "itemId": "Foundation", "count": 29 },
+      { "itemId": "Table1", "count": 1 },
+      { "itemId": "OutsideLamp1", "count": 1 },
+      { "itemId": "FlowerPot2", "count": 2 },
+      { "itemId": "FlowerPot3", "count": 3 },
+      { "itemId": "Chair2", "count": 4 },
+      { "itemId": "SofaAngleColored", "count": 3 },
+      { "itemId": "SofaColored", "count": 2 },
+      { "itemId": "Fireplace", "count": 1 },
+      { "itemId": "FlowerPot1", "count": 18 },
+      { "itemId": "FountainBig", "count": 1 },
+      { "itemId": "TreePlanter", "count": 1 },
+      { "itemId": "LightBoxMedium", "count": 1 },
+      { "itemId": "HologramGenerator", "count": 1 },
+      { "itemId": "PlanetViewer1", "count": 1 },
+      { "itemId": "FishFarm1", "count": 2 },
+      { "itemId": "Fence", "count": 17 }
+    ]
+  }
+]
