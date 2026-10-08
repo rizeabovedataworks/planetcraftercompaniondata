@@ -1,7 +1,8 @@
 ﻿{
-    "version":  3,
+    "version":  4,
     "gameVersion":  "The Planet Crafter v2.103",
-    "updatedDate":  "September 19, 2026",
-    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v3.json",
-    "releaseNotes":  "Added Primal Doorly Zoo blueprint"
+    "updatedDate":  "October 7, 2026",
+    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v4.json",
+    "releaseNotes":  "Added Primal Doorly Zoo blueprint with OTA sync fix",
+    "funBuildsUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/fun_builds.json"
 }
