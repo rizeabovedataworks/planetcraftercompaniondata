@@ -1,7 +1,7 @@
 ﻿{
-    "version":  2,
+    "version":  3,
     "gameVersion":  "The Planet Crafter v2.103",
     "updatedDate":  "September 19, 2026",
-    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v2.json",
-    "releaseNotes":  "Updated Build Blueprints catalog (Added Waterfront Retreat, removed placeholders)"
+    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v3.json",
+    "releaseNotes":  "Added Primal Doorly Zoo blueprint"
 }

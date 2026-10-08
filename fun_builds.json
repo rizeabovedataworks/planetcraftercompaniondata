@@ -59,5 +59,27 @@
       { "itemId": "FishFarm1", "count": 2 },
       { "itemId": "Fence", "count": 17 }
     ]
+  },
+  {
+    "id": "build_primal_doorly_zoo",
+    "title": "Primal Doorly Zoo",
+    "category": "Base Building",
+    "description": "An expansive outdoor wildlife sanctuary featuring fenced animal habitats, animal shelters, automated feeders, fountains, and a central management post.",
+    "imageResName": "primal_doorly_zoo",
+    "items": [
+      { "itemId": "Foundation", "count": 153 },
+      { "itemId": "Fence", "count": 75 },
+      { "itemId": "FoundationSlope", "count": 1 },
+      { "itemId": "Stairs", "count": 4 },
+      { "itemId": "pod", "count": 1 },
+      { "itemId": "door", "count": 1 },
+      { "itemId": "FloorGlass", "count": 3 },
+      { "itemId": "Container3", "count": 2 },
+      { "itemId": "Faucet1", "count": 1 },
+      { "itemId": "Shelves1", "count": 1 },
+      { "itemId": "FountainBig", "count": 1 },
+      { "itemId": "AnimalShelter1", "count": 3 },
+      { "itemId": "AnimalFeeder1", "count": 3 }
+    ]
   }
 ]
