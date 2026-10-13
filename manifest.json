@@ -1,8 +1,8 @@
 ﻿{
-    "version":  4,
+    "version":  5,
     "gameVersion":  "The Planet Crafter v2.103",
     "updatedDate":  "October 7, 2026",
-    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v4.json",
-    "releaseNotes":  "Added Primal Doorly Zoo blueprint with OTA sync fix",
+    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v5.json",
+    "releaseNotes":  "Populated Genetic Extractor input ingredients and station links",
     "funBuildsUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/fun_builds.json"
 }
