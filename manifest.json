@@ -1,8 +1,8 @@
 ﻿{
-    "version":  9,
+    "version":  10,
     "gameVersion":  "The Planet Crafter v2.103",
     "updatedDate":  "October 7, 2026",
-    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v9.json",
-    "releaseNotes":  "Updated game dataset \u0026 build blueprints to Version 9",
+    "dataUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/data_v10.json",
+    "releaseNotes":  "Updated game dataset \u0026 build blueprints to Version 10",
     "funBuildsUrl":  "https://raw.githubusercontent.com/rizeabovedataworks/planetcraftercompaniondata/main/fun_builds.json"
 }
