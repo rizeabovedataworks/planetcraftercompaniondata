@@ -1,0 +1,16 @@
+ID|Name|Category|WorldTag|PosX|PosY|PosZ
+IridiumCave|Iridium Cave|Mining|Prime|1050|25|-420
+UraniumCave|Uranium Cave|Mining|Prime|580|35|920
+OsmiumCave|Osmium Cave|Mining|Prime|420|-10|680
+ZeoliteCave|Zeolite Cave|Mining|Prime|-380|15|1150
+SuperAlloyField|Super Alloy Canyon|Mining|Prime|850|40|520
+SulfurField|Sulfur Fields|Mining|Prime|620|20|-1100
+QuartzCaves|Quartz Crystal Caves|Mining|Prime|-920|5|-280
+LarvaHarvester1|Rare Larva Harvest Field|Harvesters|Prime|-120|10|450
+LarvaHarvester2|Ecosystem Larva Collector|Harvesters|Prime|310|15|-850
+AlgaeField1|Water Life Algae Field|WaterLife|Prime|110|2|210
+WreckCargo|Star Destroyer Cargo Wreck|Wrecks|Prime|1250|60|180
+WardenRuins|Ancient Warden City Ruins|Wrecks|Prime|-1100|80|-950
+HumbleMine1|Humble Sulfur & Quartz Valley|Mining|Humble|450|12|-320
+ToxicMine1|Toxic Goo & Purification Valley|Mining|Toxicity|380|10|-520
+AqualisOcean1|Aqualis Clam & Kelp Ocean|WaterLife|Aqualis|0|-15|0
